@@ -78,26 +78,22 @@ This course is uniquely designed to cover a range of computer vision techniques.
 
 #### **Quizzes (10)**
 
-- **Frequency**: 5 quizzes (\~15-20 minutes each).
-- **Purpose**: Reinforce key concepts and provide immediate feedback on understanding.
-- **Topics**: Short, focused topics aligned with lectures (e.g., feature extraction, CNNs).
+- **Frequency**: 5 quizzes.
 
 #### **Homework Assignments (10)**
 
 - **Number**: 5 assignments.
-- **Structure**: Practical coding tasks (e.g., implementing filters, training a basic CNN, experimenting with YOLO).
-- **Purpose**: Build hands-on skills in parallel with theoretical learning.
+- **Structure**: Practical coding tasks.
 
 #### **Midterms and Final Exam**
 
 - **Midterm Exams (30)**: Two 1-hour exams, each covering \~10-12 topics.
 - **Final Exam (40)**: 2-hour comprehensive exam covering all topics.
-- **Purpose**: Evaluate understanding of theoretical concepts and problem-solving abilities.
 
 #### **Research Project (10)**
 
 - **Structure**: Teams of 2-3 students.
-- **Objective**: Apply learned techniques to a real-world problem or dataset. Deliver a small product demonstrating functionality (e.g., a simple object detector, segmentation tool, or generative model).
+- **Objective**: Apply learned techniques to a real-world problem or dataset. Deliver a small product demonstrating functionality.
 - **Deliverables**:
   - Project proposal (\~Week 4).
   - Midway progress report (\~Week 8).
