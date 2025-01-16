@@ -2,7 +2,7 @@
 
 #### **Course Overview**
 
-This course provides an in-depth understanding of classical and modern computer vision techniques, emphasizing practical applications and cutting-edge advancements. Students will gain foundational knowledge in image processing, machine learning, and deep learning for vision tasks while developing practical skills through quizzes, assignments, and a research project culminating in a small product.
+This course is uniquely designed to cover a range of computer vision techniques. The emphasis will be on the foundational knowledge in image processing, machine learning, and deep learning for vision tasks. There will be enough practical skills that will be imparted through quizzes, assignments, and a research project culminating in a small product.
 
 ---
 
@@ -82,7 +82,7 @@ This course provides an in-depth understanding of classical and modern computer 
 - **Purpose**: Reinforce key concepts and provide immediate feedback on understanding.
 - **Topics**: Short, focused topics aligned with lectures (e.g., feature extraction, CNNs).
 
-#### **Homework Assignments (15)**
+#### **Homework Assignments (10)**
 
 - **Number**: 5 assignments.
 - **Structure**: Practical coding tasks (e.g., implementing filters, training a basic CNN, experimenting with YOLO).
@@ -91,10 +91,10 @@ This course provides an in-depth understanding of classical and modern computer 
 #### **Midterms and Final Exam**
 
 - **Midterm Exams (30)**: Two 1-hour exams, each covering \~10-12 topics.
-- **Final Exam (45)**: 2-hour comprehensive exam covering all topics.
+- **Final Exam (40)**: 2-hour comprehensive exam covering all topics.
 - **Purpose**: Evaluate understanding of theoretical concepts and problem-solving abilities.
 
-#### **Research Project**
+#### **Research Project (10)**
 
 - **Structure**: Teams of 2-3 students.
 - **Objective**: Apply learned techniques to a real-world problem or dataset. Deliver a small product demonstrating functionality (e.g., a simple object detector, segmentation tool, or generative model).
