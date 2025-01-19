@@ -10,9 +10,9 @@ This course is uniquely designed to cover a range of computer vision techniques.
 
 #### **Foundations of Image Processing**
 
-1. **Image Representation** Understanding the basic structure of digital images (pixels, color spaces, formats) is fundamental to computer vision tasks.
+1. **Image Representation:** The basic structure of digital images (pixels, color spaces, formats) is fundamental to all computer vision tasks.
 
-2. **Image as a Function** Frames images as mathematical functions, enabling transformation and manipulation, essential for preprocessing.
+2. **Image as a Function:** Images are mathematical functions that enable transformation and manipulation, thus essential for preprocessing tasks.
 
 3. **Geometric Transformations**  foundational operations (translation, rotation, scaling) for image alignment and manipulation.
 
