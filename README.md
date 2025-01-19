@@ -1,4 +1,4 @@
-### Computer Vision (Course Plan)
+### Advance Topics in Computer Vision (Course Plan)
 
 #### **Course Overview**
 
