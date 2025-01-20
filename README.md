@@ -8,7 +8,7 @@ This course is uniquely designed to cover a range of computer vision techniques.
 
 ### **Course Topics**
 
-#### **Foundations of Image Processing**
+#### **Classical Foundations**
 
 1. **Image Representation:** The basic structure of digital images (pixels, color spaces, formats) is fundamental to all computer vision tasks.
 
@@ -20,57 +20,45 @@ This course is uniquely designed to cover a range of computer vision techniques.
 
 5. **Filtering (1D and 2D)**  convolution and kernel-based filtering techniques for smoothing and edge detection.
 
-#### **Mathematical Foundations**
-
 6. **Fourier Transform** Frequency domain analysis aids in filtering, noise reduction, and image compression.
 
 7. **Probability and Statistics in Vision**  probabilistic methods for segmentation, recognition, and denoising.
 
-#### **Classical Computer Vision Techniques**
+#### **Modern Computer Vision**
 
-8. **Feature Matching and Comparison**  similarity metrics and matching techniques for image registration and stitching.
+8. **Neural Networks (NN)**  perceptrons and activation functions, forming the basis of deep learning models.
 
-9. **Epipolar Geometry** Essential for understanding 3D vision tasks like stereo vision and camera calibration.
+9. **Multilayer Perceptrons (MLP)** Builds on neural networks to explore deeper architectures for classification and regression.
 
-10. **RANSAC**  robust model estimation for tasks like homography and fundamental matrix computation.
+10. **Nearest Neighbour Classification**
 
-11. **Camera Models and Calibration**  intrinsic/extrinsic camera parameters and their role in accurate image capture.
+11. **Support Vector Machines (SVM)** Classical machine learning method still relevant for many vision tasks like classification.
 
-12. **Stereo Vision** Depth estimation techniques form the basis for 3D reconstruction and AR applications.
+12. **AutoEncoders**  encoding/decoding methods for compression, denoising, and feature learning.
 
-#### **Machine Learning for Vision**
+13. **Convolutional Neural Networks (CNNs)**  convolution layers and pooling, foundational to modern vision systems.
 
-13. **Neural Networks (NN)**  perceptrons and activation functions, forming the basis of deep learning models.
+14. **ResNet**  residual learning, solving the vanishing gradient problem in deep networks.
 
-14. **Multilayer Perceptrons (MLP)** Builds on neural networks to explore deeper architectures for classification and regression.
+15. **YOLO (You Only Look Once)**  real-time object detection, widely used in industry.
 
-15. **Support Vector Machines (SVM)** Classical machine learning method still relevant for many vision tasks like classification.
+16. **U-Net**  semantic segmentation, critical for medical imaging and other applications.
 
-16. **AutoEncoders**  encoding/decoding methods for compression, denoising, and feature learning.
+#### **Cutting Edge**
 
-17. **Convolutional Neural Networks (CNNs)**  convolution layers and pooling, foundational to modern vision systems.
+17. **Generative Adversarial Networks (GANs)**  generative modeling for tasks like image synthesis and enhancement.
 
-18. **ResNet**  residual learning, solving the vanishing gradient problem in deep networks.
+18. **Diffusion Models**  a modern approach to generative modeling, rivaling GANs.
 
-19. **YOLO (You Only Look Once)**  real-time object detection, widely used in industry.
+19. **Latent Diffusion Models**  advanced generative modeling techniques for high-quality synthesis.
 
-20. **U-Net**  semantic segmentation, critical for medical imaging and other applications.
+20. **Transformers**  self-attention mechanisms and their applications in sequence modeling.
 
-#### **Generative Models and Modern Techniques**
+21. **Vision Transformers (ViT)**  transformer models to vision tasks, demonstrating their versatility.
 
-21. **Generative Adversarial Networks (GANs)**  generative modeling for tasks like image synthesis and enhancement.
+22. **CLIP**  multimodal learning with vision and text embeddings, enabling zero-shot classification.
 
-22. **Diffusion Models**  a modern approach to generative modeling, rivaling GANs.
-
-23. **Latent Diffusion Models**  advanced generative modeling techniques for high-quality synthesis.
-
-24. **Transformers**  self-attention mechanisms and their applications in sequence modeling.
-
-25. **Vision Transformers (ViT)**  transformer models to vision tasks, demonstrating their versatility.
-
-26. **CLIP**  multimodal learning with vision and text embeddings, enabling zero-shot classification.
-
-27. **Explainability in Vision**  interpretability methods like Grad-CAM, essential for trust in AI systems.
+23. **Explainability in Vision**  interpretability methods like Grad-CAM, essential for trust in AI systems.
 
 ---
 
